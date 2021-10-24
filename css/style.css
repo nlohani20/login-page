@@ -85,3 +85,8 @@ span {
 .action-forgot:hover{
     color: #b3b3b3;
 }
+
+#remember {
+    color: #ddd;
+    font-size: 14px;
+}
